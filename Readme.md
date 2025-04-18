@@ -2,6 +2,8 @@
 
 This project is an AI-powered research assistant that helps researchers quickly find relevant citations and summarize them using OpenAI's GPT model. It is built with Python, Streamlit for the user interface, and the Azure OpenAI API to power the chatbot.
 
+## Live Link : https://ai-research-agentt.streamlit.app/
+
 ## Features
 
 - **Topic Input**: Enter a research topic to find relevant citations.
@@ -19,7 +21,7 @@ This project is an AI-powered research assistant that helps researchers quickly 
 ### 1. Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/research-citation-summarizer.git
+git clone https://github.com/Nityom/AI-research-bot
 ```
 ## 2. Install Dependencies
 Make sure to install the required Python packages. Run the following command in your terminal:
@@ -81,11 +83,3 @@ Contact
 For any questions or feedback, feel free to contact the project maintainers via GitHub issues or email.
 
 Note: Google Scholar scraping is used in this demo, but it's advisable to use more reliable academic APIs (e.g., CrossRef, PubMed) for a production environment.
-
-
-
-### How to Use:
-1. Copy the code above into a new file called `README.md` in your project directory.
-2. This file will serve as the documentation for your project, helping others understand how to set up, install, and use your application.
-
-Let me know if you need any changes or further clarification!
